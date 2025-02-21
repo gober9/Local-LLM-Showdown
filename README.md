@@ -28,6 +28,18 @@ I am using Visual Studio Code for this project, but feel free to use what you ar
 ```bash
 https://github.com/gober9/Local-LLM-Showdown.git
 ```
+- Choose a folder to clone the repo and open it in VS Code.
+
+### 3. Create a Virtual Environment
+#### Windows
+- Open the VS Code terminal (Ctrl + ~).
+```bash
+python -m venv venv
+```
+- Activate the virtual environment:
+```bash
+.\venv\Scripts\Activate
+```
 
 ## Benefits of Running AI Locally
 1. Privacy & Security
