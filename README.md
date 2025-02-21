@@ -3,9 +3,9 @@ This repository serves as a training base for Large Language Models that can be 
 
 ## Benefits of Running AI Locally
 1. Privacy & Security
-Your data stays on your machine, avoiding third-party servers.
-Great for handling sensitive information without cloud exposure.
-No risk of API leaks or data logging by external services.
+- Your data stays on your machine, avoiding third-party servers.
+- Great for handling sensitive information without cloud exposure.
+- No risk of API leaks or data logging by external services.
 2. Cost Savings
 No need to pay for API calls to services like OpenAI, Anthropic, or Google.
 Once set up, running a model locally can be much cheaper in the long run.
