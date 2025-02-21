@@ -61,6 +61,11 @@ After activating the virtual environment, install required packages:
 ```bash
 pip install -r requirements.txt
 ```
+Verify Installation
+- Check if dependencies installed correctly:
+```bash
+pip list
+```
 
 ## Benefits of Running AI Locally
 1. Privacy & Security
