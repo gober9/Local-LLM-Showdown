@@ -25,9 +25,9 @@ I am using Visual Studio Code for this project, but feel free to use what you ar
 - Open VS Code.
 - Press Ctrl + Shift + P (or Cmd + Shift + P on macOS) to open the Command Palette.
 - Search for "Git: Clone" and select it.
-
-'sh 
+```bash
 https://github.com/gober9/Local-LLM-Showdown.git
+```
 
 ## Benefits of Running AI Locally
 1. Privacy & Security
