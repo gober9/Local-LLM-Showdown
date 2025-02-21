@@ -20,8 +20,14 @@ You will need to change the versions of PyTorch within the requirements.txt file
 Use this website to find your version of PyTorch for your specific specifications.
 - https://pytorch.org/get-started/locally/
 
-### 2. Fetch this repository
+### 2. VS Code: Fetching the repository
 I am using Visual Studio Code for this project, but feel free to use what you are comfortable with. 
+- Open VS Code.
+- Press Ctrl + Shift + P (or Cmd + Shift + P on macOS) to open the Command Palette.
+- Search for "Git: Clone" and select it.
+
+'sh 
+https://github.com/gober9/Local-LLM-Showdown.git
 
 ## Benefits of Running AI Locally
 1. Privacy & Security
