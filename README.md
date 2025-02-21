@@ -2,7 +2,7 @@
 This repository serves as a training base for Large Language Models that can be run on edge devices (not requiring high amounts of compute power). The purpose of this is to evaluate the most popular LLMs on your local device and test which ones perform better at specific tasks. 
 
 ## Benefits of Running AI Locally
-1. Privacy & Security
+1. Bold(Privacy & Security)
 - Your data stays on your machine, avoiding third-party servers.
 - Great for handling sensitive information without cloud exposure.
 - No risk of API leaks or data logging by external services.
