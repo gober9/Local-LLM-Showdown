@@ -67,6 +67,13 @@ Verify Installation
 pip list
 ```
 
+### 6. PyTorch & CUDA GPU Recognition
+Check to see if PyTorch and CUDA see the GPU on your system. 
+```bash
+python PyTorch_GPU_Recognition.py
+```
+Running this code should display "true". If it does not, check to see if the installed version of CUDA and PyTorch are compatible and work with your specifications. 
+
 ## Benefits of Running AI Locally
 1. Privacy & Security
 - Your data stays on your machine, avoiding third-party servers.
