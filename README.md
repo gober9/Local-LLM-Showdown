@@ -7,6 +7,7 @@ CUDA toolkit versions can be found here https://developer.nvidia.com/cuda-toolki
 - Torch: 2.5.1
 - Torchvision: 0.20.1
 - Torchaudio = 2.5.1
+
 The PyTorch versions will be downloaded when we run the requirements.txt file; however, if you have versions of PyTorch that will interfere with the compatibility with CUDA, I recommend uninstalling them as PyTorch may not be able to sense your GPU. This should also work for your CPU as well, but performance will suffer.
 
 ```bash
