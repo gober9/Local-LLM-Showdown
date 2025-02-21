@@ -18,7 +18,10 @@ pip uninstall torch torchvision torchaudio
 You will need to change the versions of PyTorch within the requirements.txt file. In some cases, the version can just be deleted, but the system will then download the most recent version of PyTorch. 
 
 Use this website to find your version of PyTorch for your specific specifications.
-https://pytorch.org/get-started/locally/
+- https://pytorch.org/get-started/locally/
+
+### 2. Fetch this repository
+I am using Visual Studio Code for this project, but feel free to use what you are comfortable with. 
 
 ## Benefits of Running AI Locally
 1. Privacy & Security
