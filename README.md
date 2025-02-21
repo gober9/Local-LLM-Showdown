@@ -41,6 +41,27 @@ python -m venv venv
 .\venv\Scripts\Activate
 ```
 
+#### Mac/Linux
+- Open the VS Code terminal (Ctrl + ~).
+```bash
+python3 -m venv venv
+```
+- Activate the virtual environment:
+```bash
+source venv/bin/activate
+```
+
+### 4. Select Virtual Environment in VS Code
+- Press Ctrl + Shift + P (or Cmd + Shift + P on macOS).
+- Search for: Python: Select Interpreter
+- Choose: ./venv/Scripts/python.exe (or ./venv/bin/python on Mac/Linux).
+
+### 5. Install Dependencies
+After activating the virtual environment, install required packages:
+```bash
+pip install -r requirements.txt
+```
+
 ## Benefits of Running AI Locally
 1. Privacy & Security
 - Your data stays on your machine, avoiding third-party servers.
